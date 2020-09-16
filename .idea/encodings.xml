@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/edsystem" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/edsystem/common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/edsystem/common/service_base" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/edsystem/service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/edsystem/service/service_edu" charset="UTF-8" />
+  </component>
+</project>
