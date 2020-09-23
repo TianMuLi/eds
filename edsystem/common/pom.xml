@@ -13,6 +13,8 @@
     <packaging>pom</packaging>
     <modules>
         <module>service_base</module>
+        <module>common_utils</module>
+        <module>spring_security</module>
     </modules>
 
     <dependencies>
@@ -89,7 +91,7 @@
 
         <!-- spring2.X集成redis所需common-pool2-->
 
-        <!--<dependency>
+        <dependency>
 
             <groupId>org.apache.commons</groupId>
 
@@ -97,7 +99,7 @@
 
             <version>2.6.0</version>
 
-        </dependency>-->
+        </dependency>
 
     </dependencies>
 

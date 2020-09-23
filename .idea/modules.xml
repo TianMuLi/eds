@@ -2,12 +2,24 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/edsystem/infrastructure/api_gateway/api_gateway.iml" filepath="$PROJECT_DIR$/edsystem/infrastructure/api_gateway/api_gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/edsystem/common/common.iml" filepath="$PROJECT_DIR$/edsystem/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edsystem/common/common_utils/common_utils.iml" filepath="$PROJECT_DIR$/edsystem/common/common_utils/common_utils.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/eds.iml" filepath="$PROJECT_DIR$/.idea/eds.iml" />
       <module fileurl="file://$PROJECT_DIR$/edsystem/edsystem.iml" filepath="$PROJECT_DIR$/edsystem/edsystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edsystem/infrastructure/infrastructure.iml" filepath="$PROJECT_DIR$/edsystem/infrastructure/infrastructure.iml" />
       <module fileurl="file://$PROJECT_DIR$/edsystem/service/service.iml" filepath="$PROJECT_DIR$/edsystem/service/service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edsystem/service/service_acl/service_acl.iml" filepath="$PROJECT_DIR$/edsystem/service/service_acl/service_acl.iml" />
       <module fileurl="file://$PROJECT_DIR$/edsystem/common/service_base/service_base.iml" filepath="$PROJECT_DIR$/edsystem/common/service_base/service_base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edsystem/service/service_cms/service_cms.iml" filepath="$PROJECT_DIR$/edsystem/service/service_cms/service_cms.iml" />
       <module fileurl="file://$PROJECT_DIR$/edsystem/service/service_edu/service_edu.iml" filepath="$PROJECT_DIR$/edsystem/service/service_edu/service_edu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edsystem/service/service_msm/service_msm.iml" filepath="$PROJECT_DIR$/edsystem/service/service_msm/service_msm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edsystem/service/service_order/service_order.iml" filepath="$PROJECT_DIR$/edsystem/service/service_order/service_order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edsystem/service/service_oss/service_oss.iml" filepath="$PROJECT_DIR$/edsystem/service/service_oss/service_oss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edsystem/service/service_statistics/service_statistics.iml" filepath="$PROJECT_DIR$/edsystem/service/service_statistics/service_statistics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edsystem/service/service_ucenter/service_ucenter.iml" filepath="$PROJECT_DIR$/edsystem/service/service_ucenter/service_ucenter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edsystem/service/service_vod/service_vod.iml" filepath="$PROJECT_DIR$/edsystem/service/service_vod/service_vod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edsystem/common/spring_security/spring_security.iml" filepath="$PROJECT_DIR$/edsystem/common/spring_security/spring_security.iml" />
     </modules>
   </component>
 </project>

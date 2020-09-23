@@ -44,7 +44,7 @@ public class CodeGenerator {
         // 4、包配置
         PackageConfig pc = new PackageConfig();
         pc.setParent("com.tl");
-        pc.setModuleName("eduservice"); //模块名
+        pc.setModuleName("cmsservice"); //模块名
         pc.setController("controller");
         pc.setEntity("entity");
         pc.setService("service");

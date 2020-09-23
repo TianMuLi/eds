@@ -1,4 +1,4 @@
-package com.tl.eduservice.Config;
+package com.tl.eduservice.config;
 
 /**
  * @Author tl
@@ -14,7 +14,7 @@ import org.springframework.context.annotation.Configuration;
 
 
 @Configuration
-@MapperScan("com.tl.eduservice.mapper")
+@MapperScan("com.tl.cmsservice.mapper")
 public class EduConfig {
     /**
      * 逻辑删除插件
