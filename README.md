@@ -5,3 +5,6 @@
 
 1.2 分析函数和聚合函数的不同
       普通的聚合函数用group by分组，每个分组返回一个统计值；而分析函数采用partition by 分组，并且每组每行都可以返回一个统计值。
+
+
+https://blog.csdn.net/poyue8754/article/details/123718482
