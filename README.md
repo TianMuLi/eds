@@ -1,13 +1,7 @@
 # eds
+1. 认识分析函数
+1.1 什么是分析函数
+       分析函数是Oracle专门用于解决复杂报表统计需求的功能强大的函数，它可以在数据中进行分组然后计算基于组的某种统计值，并且每一组的每一行都可以返回一个统计值。
 
-【\\p{IsLatin}+(?:-\\p{IsLatin}+)*|\\d+】
-[^\\p{L}+(\\-\\p{L}+)*\\d]+
-
-\p{InBasic_Latin}
-
-^(?:(?![<>%=])[\p{Latin}\s\d\p{P}\p{S}])*$
-
-/[A-Za-z\\u0080-\\uFFFF -]{2,}/
-
-<dependency><groupId>org.springframework.boot</groupId><artifactId>spring-boot-properties-migrator</artifactId><scope>runtime</scope>
-</dependency>
+1.2 分析函数和聚合函数的不同
+      普通的聚合函数用group by分组，每个分组返回一个统计值；而分析函数采用partition by 分组，并且每组每行都可以返回一个统计值。
